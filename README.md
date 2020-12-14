@@ -4,7 +4,7 @@
 ## The best pre-computed word embeddings you can use
 
 ConceptNet Numberbatch is a set of semantic vectors (also known as word embeddings)
-than can be used directly as a representation of word meanings or as a starting point
+that can be used directly as a representation of word meanings or as a starting point
 for further machine learning.
 
 ConceptNet Numberbatch is part of the [ConceptNet](http://conceptnet.io) open
