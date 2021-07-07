@@ -1,4 +1,4 @@
-Copyright (C) 2016 Rob Speer (rob@luminoso.com) and Joshua Chin (joshuarchin@gmail.com)
+Copyright (C) 2016 Robyn Speer (rspeer@luminoso.com) and Joshua Chin (joshuarchin@gmail.com)
 
 The data included here is released under the Creative Commons Attribution-ShareAlike
 4.0 license. See README.md for more details.
